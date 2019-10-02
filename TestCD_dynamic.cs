@@ -29,21 +29,21 @@ namespace ApplicationRegistry.SuppliersPortal.Reports
 
             dtImport = new DataTable("Import");
             dtImport.Columns.Add("errorCode", typeof(string));
-            1
-                2
-                3
-                4
-                5
-                6
-                7
+            1;
+            2;
+            3;
+            4;
+            5;
+            6;
+            7;
                 olololollolololololo;
-            new realese!!!!
-                gjgjgj
-                gkgkggk
+            new realese()!!!!;
+            gjgjgj;
+            gkgkggk;
 
                 kgkgkgkgkgkgk; ; ;
-            ff
-                fff
+            ff;
+                fff;
                 ff;
         }
 
