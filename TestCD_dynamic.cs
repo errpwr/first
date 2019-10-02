@@ -29,6 +29,14 @@ namespace ApplicationRegistry.SuppliersPortal.Reports
 
             dtImport = new DataTable("Import");
             dtImport.Columns.Add("errorCode", typeof(string));
+            1
+                2
+                3
+                4
+                5
+                6
+                7
+                olololollolololololo;
             
         }
 
