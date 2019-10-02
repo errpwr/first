@@ -37,7 +37,7 @@ namespace ApplicationRegistry.SuppliersPortal.Reports
                 6
                 7
                 olololollolololololo;
-            
+            new realese!!!!
         }
 
         private void gridView1_ShownEditor(object sender, EventArgs e)
